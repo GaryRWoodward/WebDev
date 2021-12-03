@@ -1,0 +1,12 @@
+/* Cascading Style Sheet for Web Site */
+body {
+  background-color: #D8E3E7;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  height 0px;
+  width: 10%;
+}
